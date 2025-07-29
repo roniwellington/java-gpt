@@ -22,7 +22,7 @@ Este repositório foi desenvolvido durante cursos na **Alura** com o objetivo de
 - 🚧 **Tratamento de erros em APIs**
 
 ## 📁 Estrutura do Projeto
-
+```
 java-gpt/
 ├── src/
 │ └── main/
@@ -37,7 +37,7 @@ java-gpt/
 ├── pom.xml
 └── README.md
 
-
+```
 ## 💡 Exemplos de Uso
 Criar respostas automatizadas com base em perguntas abertas
 
